@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+.lives, .score {
+
+	width: 100px;
+	background-color: #2EBCFF;
+	padding: 5px;
+	color: #fff;
+	display: inline-block;
+}
